@@ -2,9 +2,10 @@
 <h3 align="center">AI Engineer — Generative AI · LLMs · RAG · AWS</h3>
 
 <p align="center">
+  <a href="https://sadiq-ai.dev/"><img src="https://img.shields.io/badge/Portfolio-sadiq--ai.dev-facc00?style=flat&logo=vercel&logoColor=161616" /></a>
   <a href="mailto:eth.sadiq@gmail.com"><img src="https://img.shields.io/badge/Email-eth.sadiq%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sadiq-hasan-in"><img src="https://img.shields.io/badge/LinkedIn-sadiq--hasan--in-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sadiq1402&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sadiq1402&label=Profile%20views&color=facc00&style=flat" alt="profile views" />
 </p>
 
 AI Engineer building production Generative AI and LLM-powered systems in Python — prompt
@@ -15,6 +16,7 @@ AWS-native deployment. Currently shipping agentic AI and voice AI systems at ent
 - 🧪 Previously: Generative AI Research Intern at **Annam AI, IIT Ropar** — built [PRAGATI-AI](https://github.com/sadiq1402/PRAGATI-AI), a GenAI model helping farmers improve crop yield through pollination monitoring
 - 🎓 B.S. in Data Science, **IIT Madras** (2022 – 2026)
 - 💬 Ask me about RAG pipelines, LLM orchestration, FastAPI, or AWS Bedrock
+- 🌐 See it all built out at **[sadiq-ai.dev](https://sadiq-ai.dev/)**
 
 ### Tech Stack
 
@@ -36,15 +38,15 @@ AWS-native deployment. Currently shipping agentic AI and voice AI systems at ent
 ### GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiq1402&show_icons=true&locale=en&layout=compact&theme=default" alt="Top languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiq1402&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=facc00&icon_color=facc00&text_color=c0caf5&bg_color=1a1b26" alt="Top languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sadiq1402&show_icons=true&locale=en&theme=default" alt="GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sadiq1402&show_icons=true&locale=en&hide_border=true&title_color=facc00&icon_color=facc00&text_color=c0caf5&bg_color=1a1b26" alt="GitHub stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadiq1402" alt="GitHub streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadiq1402&hide_border=true&background=1a1b26&ring=facc00&fire=facc00&currStreakLabel=c0caf5&sideLabels=c0caf5&currStreakNum=f5f5f3&sideNums=f5f5f3&dates=6b6b6b" alt="GitHub streak" />
 </p>
 
 ---
